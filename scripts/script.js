@@ -59,3 +59,15 @@ const smash = word => word.join(" ").trim();
 
 //console.log(smash(['hello', 'world', 'this', 'is', 'great']))
 
+
+const getActualLikes = names => {
+
+}
+
+const lps = (p1,p2) => {
+
+ const winner = names.length === 0 ? "no one likes this" : getActualLikes(names);
+
+ return res;
+
+}
